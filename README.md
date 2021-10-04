@@ -1,4 +1,4 @@
-# Sample-Efficient Learning of Deformable Linear Object Manipulationin the Real World through Self-Supervision
+# Sample-Efficient Learning of Deformable Linear Object Manipulation in the Real World through Self-Supervision
 WIP: This repository is a work in progress for the research project
 Under submission.
 
